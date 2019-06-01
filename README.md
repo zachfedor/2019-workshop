@@ -18,3 +18,15 @@
 2019.05.09
 [https://learncodethehardway.org/more-python/]()
 
+
+## Automating Docker with Python
+
+2019-05-27
+Implementing [docker-py](https://github.com/docker/docker-py).
+
+
+## Docker Labs: Beginner
+
+2019-05-30
+[Tutorial](https://github.com/docker/labs/tree/master/beginner/)
+
